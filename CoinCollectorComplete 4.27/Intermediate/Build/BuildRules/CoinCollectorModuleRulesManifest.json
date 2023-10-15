@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\CoinCollectorComplete\\CoinCollectorComplete 4.27\\Source\\CoinCollector\\CoinCollector.Build.cs",
+		"D:\\CoinCollectorComplete\\CoinCollectorComplete 4.27\\Source\\CoinCollector.Target.cs",
+		"D:\\CoinCollectorComplete\\CoinCollectorComplete 4.27\\Source\\CoinCollectorEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
